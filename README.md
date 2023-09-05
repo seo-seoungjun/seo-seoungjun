@@ -1,6 +1,7 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d0efff&height=200&section=header&text=Jun%20github&fontSize=90" />
 </div>
+<h3 align="center">Fornt-end Developer</h3>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Languages & framework ✨</p>
