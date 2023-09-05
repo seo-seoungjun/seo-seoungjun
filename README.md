@@ -27,10 +27,8 @@
 </div>
 <br>
 <p align="center">🏆 Baekjoon solved rank 🏆</p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjtjdwns1860)](https://solved.ac/tjtjdwns1860)
-</div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjtjdwns1860)](https://solved.ac/tjtjdwns1860/)
 
 <!---
 seo-seoungjun/seo-seoungjun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
