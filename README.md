@@ -27,6 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo-seoungjun&layout=compact">
 </div>
 <br>
+<p>진행중인 프로젝트 : https://github.com/LlamaVista/LlamaVista/tree/FE</p>
 <p align="center">🏆 Baekjoon solved rank 🏆</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjtjdwns1860)](https://solved.ac/tjtjdwns1860/)
