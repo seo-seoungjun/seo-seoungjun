@@ -31,27 +31,33 @@
 
 ## 💪 Experience 💪
 
-- 사회적 가치 창출 창업팀 DCION
-  - 서비스 기획 및 개발 담당
-- 연세대학교 사회혁신타운 워크스테이션
-- 브랜딩 컨설트 창업팀 ALLTO 공동창업자
-  - BI/BX, 브랜딩, 마케팅 기획 및 개발 담당
+- 사회적 가치 창출 창업팀 DCION (2021.10 ~ 2022.06)
+  - 핀테크 어플리케이션 '집사' 서비스 기획 및 개발 담당
+  
+- 연세대학교 사회혁신타운 워크스테이션 (2021.04 ~ 2022.01)
+  - 청소년 창업 해커톤 hi-school, hi-startup 기획
+
+- 브랜딩 컨설트 창업팀 ALLTO 공동창업 (2021.03 ~ 2021.10)
+  - BI/BX, 브랜딩, 마케팅 기획 및 웹사이트 개발 담당
+  - WADDLE, MARING, DPARKS, 신전떡볶이 브랜딩 컨설팅 진헹
 
 
 ## 👨🏻‍💻 Project 👨🏻‍💻
 
-- 데이터 분석 자동화 서비스 프론트엔드 개발
-- 집사 프리토타입 개발
-- 브랜딩 솔루션 싱글 페이지 개발
-- ALLTO 웹사이트 개발
+- 데이터 분석 자동화 서비스 프론트엔드 개발 (2023.09 ~ 2024.07)
+- 집사 프리토타입 개발 (2021.11)
+- 브랜딩 솔루션 싱글 페이지 개발 (2021.06 ~ 2021.10)
+- ALLTO 웹사이트 개발 (2021.03 ~ 2021.06)
 
 
 ## 🏆 Award 🏆
 
-- International Publisher Springer논문 ‘Ecological model inspired
-thinking process;the alternative design mode for nature and human’s
+- [International Publisher Springer 논문 등록] 2022.06
+‘Ecological model inspired thinking process;the alternative design mode for nature and human’s
 coexistence in the new era’ 기재
-- 국제 디자인학술대회 IASDR 2021 최종 논문 발표팀 선정
-- icists kaist 그래피티 스타트업 협업 해커톤 총 40팀 중 4등
+
+- [국제 디자인학술대회 IASDR 2021 최종 논문 발표팀 선정] 2021.06
+  
+- [ICISTS KAIST GRAFFITI STARTUP Festival 2021 40팀 중 4등] 2021.01.30, ICISTS KAIST 
 
 
