@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  
 </div>
+<br/>
 
 **사용해본 경험이 있는 언어 및 프레임워크**
 <div>
@@ -41,13 +41,13 @@
 ## 👨🏻‍💻 Project 👨🏻‍💻
 
 - 데이터 분석 자동화 서비스 프론트엔드 개발
-- 브랜딩 솔루션 싱글 페이지 개발
+- 집사 프리토타입 개발
 - 브랜딩 솔루션 싱글 페이지 개발
 - ALLTO 웹사이트 개발
 
 
 ## 🏆 Award 🏆
--
+
 - International Publisher Springer논문 ‘Ecological model inspired
 thinking process;the alternative design mode for nature and human’s
 coexistence in the new era’ 기재
