@@ -3,7 +3,7 @@
 **자주 사용하는 언어 및 프레임워크**
 <div>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next%20js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Next%20js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Recoil-3578E5.svg?style=flat-square&logo=Recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=flat-square&logo=React-Query&logoColor=white"/>
