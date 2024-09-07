@@ -28,6 +28,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
 
+## 👨🏻‍💻 알고리즘
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjtjdwns1860)](https://solved.ac/tjtjdwns1860/)
+
+
 ## 💪 Experience 💪
 
 - 사회적 가치 창출 창업팀 DCION (2021.10 ~ 2022.06)
