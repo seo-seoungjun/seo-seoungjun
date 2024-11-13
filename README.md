@@ -16,6 +16,7 @@
 
 **사용해본 경험이 있는 언어 및 프레임워크**
 <div>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
@@ -34,13 +35,13 @@
 
 ## 💪 Experience 💪
 
-- 사회적 가치 창출 창업팀 DCION (2021.10 ~ 2022.06)
+- 사회적 가치 창출 창업팀 DCION (2021.11 ~ 2022.07)
   - 핀테크 어플리케이션 '집사' 서비스 기획 및 개발 담당
   
 - 연세대학교 사회혁신타운 워크스테이션 (2021.04 ~ 2022.01)
   - 청소년 창업 해커톤 hi-school, hi-startup 기획
 
-- 브랜딩 컨설트 창업팀 ALLTO 공동창업 (2021.03 ~ 2021.10)
+- 브랜딩 컨설트 창업팀 ALLTO 공동창업 (2021.02 ~ 2021.11)
   - BI/BX, 브랜딩, 마케팅 기획 및 웹사이트 개발 담당
   - WADDLE, MARING, DPARKS, 신전떡볶이 브랜딩 컨설팅 진헹
 
